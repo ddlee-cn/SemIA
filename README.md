@@ -1,6 +1,6 @@
 ## Semantic Image Analogy with a Conditional Single-Image GAN, In ACM MM 2020(Oral)
 
-[Jiacheng Li](http://home.ustc.edu.cn/~jclee), [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong), [Dong Liu](http://staff.ustc.edu.cn/~dongeliu), [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99), Zhen-Jun Zha
+[Jiacheng Li](http://home.ustc.edu.cn/~jclee), [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong), [Dong Liu](http://staff.ustc.edu.cn/~dongeliu), [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99), Zheng-Jun Zha
 
 ![teaser](docs/teaser.png)
 
